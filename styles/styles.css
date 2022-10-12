@@ -1,0 +1,230 @@
+body{font-family: 'Montserrat', sans-serif;
+    background-color: #f5f7fa;}
+/* main styles */
+.main{
+    display:flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin: auto;
+    
+}
+.main-content{
+    background-color: #fff;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+    padding: 40px 200px 105px 90px;
+}
+/* about styles */
+.about{
+margin-bottom: 40px;
+}
+
+.about-position {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    margin-bottom: 20px;
+}
+
+.about-name {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    color: #000000;
+    margin-bottom: 25px;
+}
+
+.about-description {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+    width: 600px;
+}
+
+/* project styles */
+
+.projects{
+margin-bottom: 50px;
+}
+.title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+    margin-bottom: 10px;
+}
+.projects-list{
+padding: 0;
+margin-left: 15px;
+
+}
+.projects-item{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+}
+.project-text, .project-link{
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+        color: #662a61;
+}
+
+.project-link{margin-left: 10px;}
+.bracket{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+}
+/* work styles */
+.work{
+margin-bottom: 45px;
+}
+
+.work-position{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+    margin-bottom: 10px;
+}
+.organization{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #662a61;
+}
+.period{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #662a61;;
+    margin-bottom: 10px;
+}
+.line{
+    Font Montserrat; 
+    Weight 400;
+     Size 12px;
+      Line height 15px;
+       color: #000000;
+}
+.work-list{
+    padding: 0;
+    margin-left: 15px;
+}
+.w-l-item{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+}
+/* education styles */
+.education{
+
+}
+.management{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+/* sidebar styles */
+.sidebar{
+    background-color:#662a61;
+    padding-top: 40px;
+    width: 370px;
+}
+.photo{
+    padding-bottom: 50px;
+
+}
+.sidebar-title{
+    color: white;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 22px;
+        line-height: 27px;
+        margin-bottom: 10px;
+}
+.contacts{
+    margin-bottom: 50px;
+}
+.tech-skills{
+    margin-bottom: 45px;
+
+}
+.contacts, 
+.tech-skills, 
+.soft-skills {
+    margin-left: 50px;
+}
+.contact-type{
+    font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 24px;
+        color: white; 
+        margin-right: 5px;   
+    }
+.contact-link{
+    font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+
+        color: #e3f112;
+        opacity: 0.5;
+}
+.tech-skills-list{
+    color: white;
+    padding: 0;
+    margin-left: 20px;
+}
+.soft-skills-list{
+    color: white;
+        padding: 0;
+        margin-left: 20px;
+}
+.tech-skills-item{
+        color: #e3f112;
+}
+.tech-skills-text{
+color: white;
+font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+.soft-skills-item{
+        color: #e3f112;
+}
+.soft-skills-text {
+    color: white;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
